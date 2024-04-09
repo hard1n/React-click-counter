@@ -8,5 +8,3 @@
 - Hooks (useState) to update component state.
 
 **Technologies Used:** HTML, CSS, JavaScript + React
-
-[View Repository](link)
